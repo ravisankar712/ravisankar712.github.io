@@ -4,7 +4,7 @@ collection: teaching
 type: "Mini Course (unofficial)"
 permalink: /teaching/bosonization
 venue: "University of Virginia"
-date: Spring of 2025
+date: 2025
 location: ""
 ---
 
