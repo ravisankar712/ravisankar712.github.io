@@ -1,5 +1,10 @@
 {% include base_path %}
-
+<script>
+  if (!localStorage.getItem('theme')) {
+    document.documentElement.setAttribute('data-theme', 'dark');
+    localStorage.setItem('theme', 'dark');
+  }
+</script>
 <!-- start custom head snippets -->
 
 <!-- Support for Academicons -->
