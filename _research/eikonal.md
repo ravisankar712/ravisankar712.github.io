@@ -1,6 +1,6 @@
 ---
 title: "Classical Gravitational Observables from Amplitudes"
-excerpt: "On extracting classical observables from quantum amplitudes using a framework called worldline quantum field theory."
+excerpt: "The three papers described here are on the theme of extracting classical observables from quantum amplitudes. The first of the three connects two different existing frameworks, the second verifies a conjecture and the third applies the framework to charged blackholes."
 ---
 
 With Prof. Diana Vaman, Sid Ajith and Yuchen Du, we used the first quantized version of quantum field theory (called worldline quantum field theory) to systematically construct the classical limit of gravitational and electromagnetic two body scattering. We showed that the worldline formalism and the QFT based methods are equivalent. Using this equivalence, we can extract the classical scattering potential directly in a diagrammatic way. We were also able to check a conjecture that exists in the QFT based method to all orders in the perturbative expansion of the potential, where previous results only went up to three orders.
