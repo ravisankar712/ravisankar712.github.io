@@ -9,6 +9,6 @@ With Prof. Diana Vaman, Sid Ajith and Yuchen Du, we used the first quantized ver
 
 - The paper verifying the exponentiation conjecture for scalar QED and Gravity can be found [here](https://inspirehep.net/literature/2830449)
 
-With Nur Rifat and Prof. Kent Yagi, we applied the worldline formalism to compute the corrections to the Reisner-Nordstrum metric in the presence of higher derivative corrections to the action. We explored consequences to the blackhole mechanics and found that positivity of extremal blackhole temperature and weak gravity conjecture are consistent. 
+With Nur Rifat and Prof. Kent Yagi, we applied the worldline formalism to compute the corrections to the Reisner-Nordstrum metric in the presence of higher derivative corrections to the action. We explored consequences to the blackhole mechanics, and put conditions on the couplings using the weak gravity conjecture. 
 
 - The article can be found [here](https://inspirehep.net/literature/3163030)
