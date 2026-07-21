@@ -4,10 +4,10 @@ collection: teaching
 type: "TA"
 permalink: /teaching/uvateaching
 venue: "University of Virginia"
+date: 2021-08-01
 location: ""
 ---
 At UVA, I have been a TA for the following classes, 
-
 ## 2026 Summer : Principles of Physics II 
 Undergraduate course teaching the fundamentals of physics for pre-health students. 
 ## 2025 Fall : Theoretical Mechanics
