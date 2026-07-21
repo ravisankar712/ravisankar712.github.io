@@ -4,7 +4,6 @@ collection: teaching
 type: "TA"
 permalink: /teaching/uvateaching
 venue: "University of Virginia"
-date: 
 location: ""
 ---
 At UVA, I have been a TA for the following classes, 
