@@ -10,17 +10,13 @@
 
 @import
     "vendor/breakpoint/breakpoint",
-
     "themes",
-    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "theme/{{ site.site_theme | default: 'default' | append: '_dark' }}",
-
+    "theme/{{ site.site_theme | default: 'default' | append: '_light' }}",
     "include/mixins",
     "vendor/susy/susy",
-
     "layout/reset",
     "layout/base",
-
     "include/utilities",
     "layout/tables",
     "layout/buttons",
@@ -29,9 +25,7 @@
     "layout/navigation",
     "layout/footer",
     "syntax",
-
     "layout/forms",
-
     "layout/page",
     "layout/archive",
     "layout/sidebar",
