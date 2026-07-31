@@ -6,12 +6,34 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+<script src="https://polyfill.io"></script>
+<script id="MathJax-script" async src="https://jsdelivr.net"></script>
+<script>
+  window.MathJax = {
+    tex: { inlineMath: [['$', '$']] }
+  };
+</script>
 <p style="text-align: justify;">Over the years, I have designed and taught classes on advanced topics in Quantum Field Theory 
   (unofficially) to my classmates and colleagues. 
   Some of these lectures are recorded (thanks to Dima and Nur for the initiative!) and have been put on YouTube. 
 Listed below are those lectures with corresponding lecture notes.
 </p>
+
+<h2>Lectures on bosonization.</h2> 
+<div style="overflow: hidden;">
+  <iframe width="267" height="200"
+    src="https://www.youtube.com/embed/videoseries?list=PLg3amjhDg2vgc9haNjCIWv363k_KcZtFs"
+    style="float: right; margin: 0 0 10px 15px; border: none;"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+    allowfullscreen>
+  </iframe>
+  <p style="text-align: justify;">
+    In $1+1$ dimensions, fermions and bosons have little distinction. It turns out that one can write a theory of fermions 
+    entirely in terms of a theory of bosons. The particles in one theory is mapped to solitions in the other theory. This is the 
+    story of bosonization. These four lectures attempt to elucidate this concept. 
+  </p>
+</div>
+
 <h2>Lectures on phase transitions and the Renormalization Group.</h2>  
 <!-- <iframe width="300" height="169"
   src="https://www.youtube.com/embed/videoseries?list=PL4InggibDMVtPo49KLFW68_gDHEzMPa2J"
