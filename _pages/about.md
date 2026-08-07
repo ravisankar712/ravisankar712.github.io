@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+
+  <div style="text-align: justify;">
+
 Hello world! I am a PhD student (2021 – present) at the University of Virginia, working with professor Diana Vaman. 
 
 Broadly speaking, my research is about Quantum Field Theory, and its relation with classical and quantum gravity. 
@@ -20,12 +24,24 @@ bosonization, and phase transitions and critical phenomena.
 These lectures are on YouTube (thanks to my awesome classmates!). 
 See the [teaching page](/teaching/) for the videos and lecture notes. 
 
-
-
 ## Education
 - PhD in Physics (2021 \- Present) at the University of Virginia.
     * Advisor: Prof. Diana Vaman
 - BS \- MS dual degree in Physics (2015 \- 2020) at Indian Institute of Science Education and Research, Kolkata.
     * Advisor: Prof. Ananda Dasgupta
     * Thesis: Mathematical Aspects of Quantum Theories
+
+  </div>
+
+  <div>
+    <img src="ekd.jpeg" alt="description" style="width: 100%; border-radius: 4px;">
+  </div>
+
+</div>
+
+
+
+
+
+
     
