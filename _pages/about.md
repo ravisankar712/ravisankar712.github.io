@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px;">
+<div style="display: grid; grid-template-columns: 2fr 1fr; gap: 20px;">
 
   <div style="text-align: justify;">
 
@@ -24,7 +24,7 @@ bosonization, and phase transitions and critical phenomena.
 These lectures are on YouTube (thanks to my awesome classmates!). 
 See the [teaching page](/teaching/) for the videos and lecture notes. 
 
-## Education
+<h2>Education</h2>
 - PhD in Physics (2021 \- Present) at the University of Virginia.
     * Advisor: Prof. Diana Vaman
 - BS \- MS dual degree in Physics (2015 \- 2020) at Indian Institute of Science Education and Research, Kolkata.
@@ -34,7 +34,7 @@ See the [teaching page](/teaching/) for the videos and lecture notes.
   </div>
 
   <div>
-    <img src="ekd.jpeg" alt="description" style="width: 100%; border-radius: 4px;">
+    <img src="ekd.jpeg"  style="width: 100%; border-radius: 4px;">
   </div>
 
 </div>
